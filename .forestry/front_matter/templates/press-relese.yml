@@ -1,6 +1,7 @@
 ---
 label: press relese
-hide_body: true
+hide_body: false
+display_field: post_text
 fields:
 - type: text
   name: title
@@ -21,6 +22,3 @@ fields:
     schema:
       format: markdown
   label: post text
-pages:
-- content/posts/test.md
-- content/posts/test2.html
