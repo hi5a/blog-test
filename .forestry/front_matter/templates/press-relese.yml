@@ -8,6 +8,10 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 - name: post_text
   type: textarea
   default: ''
@@ -17,7 +21,3 @@ fields:
     schema:
       format: markdown
   label: post text
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
