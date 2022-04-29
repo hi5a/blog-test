@@ -8,3 +8,16 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: post_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: post text
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
