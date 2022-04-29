@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://press.nordicgamelab.org/categories/</loc>
+    <loc>https://press.nordicgamelab.org/posts/my-first-post/</loc>
+    <lastmod>2022-04-28T23:05:18-04:00</lastmod>
   </url><url>
     <loc>https://press.nordicgamelab.org/</loc>
+    <lastmod>2022-04-28T23:05:18-04:00</lastmod>
+  </url><url>
+    <loc>https://press.nordicgamelab.org/posts/</loc>
+    <lastmod>2022-04-28T23:05:18-04:00</lastmod>
+  </url><url>
+    <loc>https://press.nordicgamelab.org/categories/</loc>
   </url><url>
     <loc>https://press.nordicgamelab.org/tags/</loc>
   </url>

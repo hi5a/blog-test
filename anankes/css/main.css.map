@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/andrew/Desktop/quickstart-full code",
+	"sourceRoot": "/home/andrew/quickstart",
 	"sources": [
 		"stdin"
 	],
