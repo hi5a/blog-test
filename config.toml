@@ -1,0 +1,4 @@
+baseURL = 'https://press.nordicgamelab.org'
+languageCode = 'en-us'
+title = 'Nordic Game Lab Press'
+theme = "ananke"
