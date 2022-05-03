@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://press.nordicgamelab.org/sitemap.xml

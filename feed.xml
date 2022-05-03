@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Nordic Game Lab</title>
+    <link href="https://press.nordicgamelab.org/feed.xml" rel="self" />
+    <link href="https://press.nordicgamelab.org" />
+    <updated>2022-04-28T20:28:06-04:00</updated>
+    <author>
+        <name>Andrew Ball</name>
+    </author>
+    <id>https://press.nordicgamelab.org</id>
+
+    <entry>
+        <title>TEST</title>
+        <author>
+            <name>Andrew Ball</name>
+        </author>
+        <link href="https://press.nordicgamelab.org/test.html"/>
+        <id>https://press.nordicgamelab.org/test.html</id>
+
+        <updated>2022-04-28T20:28:06-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test post to make sure my system works
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is a test post to make sure my system works
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
