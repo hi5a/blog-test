@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://press.nordicgamelab.org/test.html",
-            "url": "https://press.nordicgamelab.org/test.html",
+            "id": "https://press.nordicgamelab.org/test/",
+            "url": "https://press.nordicgamelab.org/test/",
             "title": "TEST",
             "summary": "This is a test post to make sure my system works",
             "content_html": "\n  <p>\n    This is a test post to make sure my system works\n  </p>",
