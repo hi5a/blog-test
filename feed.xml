@@ -3,10 +3,31 @@
     <title>Nordic Game Lab</title>
     <link href="https://press.nordicgamelab.org/feed.xml" rel="self" />
     <link href="https://press.nordicgamelab.org" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2022-07-02T14:19:56-04:00</updated>
     <author>
         <name>Andrew Ball</name>
     </author>
     <id>https://press.nordicgamelab.org</id>
 
+    <entry>
+        <title>New Game</title>
+        <author>
+            <name>Andrew Ball</name>
+        </author>
+        <link href="https://press.nordicgamelab.org/new-game.html"/>
+        <id>https://press.nordicgamelab.org/new-game.html</id>
+
+        <updated>2022-07-02T14:19:56-04:00</updated>
+            <summary>
+                <![CDATA[
+                    We have posted a new game on itch.io Didactic country by Nordic game lab
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We have posted a new game on<a href="https://nordic-game-lab.itch.io/didactic-country" rel="sponsored"> itch.io </a></p>
+<div class="post__iframe"><iframe loading="lazy" width="552" height="167" src="https://itch.io/embed/1513142" frameborder="0"><a href="https://nordic-game-lab.itch.io/didactic-country">Didactic country by Nordic game lab</a></iframe></div>
+            ]]>
+        </content>
+    </entry>
 </feed>
