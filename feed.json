@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Nordic Game Lab Press",
+    "title": "Nordic Game Lab",
     "description": "",
     "home_page_url": "https://press.nordicgamelab.org",
     "feed_url": "https://press.nordicgamelab.org/feed.json",
@@ -9,33 +9,5 @@
         "name": "Andrew Ball"
     },
     "items": [
-        {
-            "id": "https://press.nordicgamelab.org/new-game/",
-            "url": "https://press.nordicgamelab.org/new-game/",
-            "title": "New game",
-            "summary": "We have posted a new game on itch.io ",
-            "content_html": "<p>We have posted a new game on<a href=\"https://nordic-game-lab.itch.io/didactic-country\" rel=\"sponsored\"> itch.io </a></p>",
-            "author": {
-                "name": "Andrew Ball"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-03T20:46:12-04:00",
-            "date_modified": "2022-05-03T20:46:12-04:00"
-        },
-        {
-            "id": "https://press.nordicgamelab.org/test/",
-            "url": "https://press.nordicgamelab.org/test/",
-            "title": "TEST",
-            "summary": "This is a test post to make sure my system works",
-            "content_html": "\n  <p>\n    This is a test post to make sure my system works\n  </p>",
-            "author": {
-                "name": "Andrew Ball"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-28T20:28:06-04:00",
-            "date_modified": "2022-04-28T20:28:06-04:00"
-        }
     ]
 }
